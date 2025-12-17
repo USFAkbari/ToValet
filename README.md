@@ -1,5 +1,7 @@
 # ToValet(Shell)
 
+![ToValet Screenshot](image.png)
+
 `ToValet.sh` is an interactive Bash script that guides you step‑by‑step through secure SSH setup:
 
 - Generating secure SSH key pairs (ED25519 or RSA)
