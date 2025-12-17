@@ -1,0 +1,24 @@
+# Backup files
+*.bak
+*.backup
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# SSH keys (NEVER commit these!)
+*.pem
+id_*
+!id_*.pub.example
+
+# Logs
+*.log
+
